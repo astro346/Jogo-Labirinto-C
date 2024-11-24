@@ -12,7 +12,7 @@
     <hr>
     <h2>🎮 Como Jogar</h2>
     <ol>
-        <ul>O jogador será posicionado em uma posição inicial aleatória dentro do tabuleiro.</ul>
+        <li>O jogador será posicionado em uma posição inicial aleatória dentro do tabuleiro.</li>
         <li>O objetivo de cada fase é encontrar a saída do labirinto, representada pela letra <code>S</code> no tabuleiro.</li>
         <li>Utilize as seguintes teclas para se movimentar:
             <ul>
