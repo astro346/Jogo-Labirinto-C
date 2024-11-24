@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>README: Jogo de Labirinto</h1>
+    <h1>Jogo de Labirinto</h1>
     <p>
         Este é um jogo de labirinto simples implementado em linguagem C, onde o jogador deve navegar por um tabuleiro, evitar paredes, e encontrar a saída antes de esgotar o número de passos disponíveis. O jogo contém várias fases, e o jogador acumula pontuação conforme avança.
     </p>
