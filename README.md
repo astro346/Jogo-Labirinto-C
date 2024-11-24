@@ -96,10 +96,6 @@ gcc -o labirinto main.c -Wall
         Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Faça um fork do repositório, implemente as mudanças e envie um pull request!
     </p>
     <hr>
-    <h2>📄 Licença</h2>
-    <p>
-        Este projeto está licenciado sob a licença MIT. Consulte o arquivo <code>LICENSE</code> para mais detalhes.
-    </p>
     <hr>
     <p>Divirta-se explorando os labirintos! 😊</p>
 </body>
