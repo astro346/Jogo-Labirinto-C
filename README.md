@@ -22,7 +22,8 @@
                 <li><code>D</code>: Move para a direita.</li>
             </ul>
         </li>
-        <li>O jogador precisa completar a fase dentro de <b>30 passos</b>. Caso contrário, ele perde a fase. Depois de finalizar o jogo, a contagem de passos diminui para <b>25 passos</b>, tornando o jogo mais complexo.</li>
+        <li>O jogador precisa completar a fase dentro de <b>30 passos</b>. Caso contrário, ele perde a fase.<br>
+            Depois de finalizar o jogo, a contagem de passos diminui para <b>25 passos</b>, tornando o jogo mais complexo.</li>
         <li>Cada fase completada aumenta a pontuação do jogador em <b>100 pontos</b>.</li>
     </ol>
     <hr>
