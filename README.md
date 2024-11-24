@@ -95,8 +95,6 @@ gcc -o labirinto main.c -Wall
     <p>
         Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Faça um fork do repositório, implemente as mudanças e envie um pull request!
     </p>
-    <hr>
-    <hr>
     <p>Divirta-se explorando os labirintos! 😊</p>
 </body>
 </html>
